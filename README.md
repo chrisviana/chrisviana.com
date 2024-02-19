@@ -16,7 +16,7 @@ Não vou colocar todas as tenclogias que tenho conhecimento, mas você pode ver 
 
 #### Projetos
 
-Projetos que estão rodando em produção, mas os link para os projetos estão no ambiente de teste estão pode usar avontade
+Projetos que estão rodando em produção, mas os link para os projetos estão no ambiente de teste estão pode usar avontade.
 
 Dados para login:
 
@@ -25,7 +25,7 @@ Dados para login:
   senha: 1234567899
 ```
 
-- [Sistema de Academia]()
+- [Sistema de Academia - Web](https://gym-city-web-homolog.vercel.app/)
 - [Sistema de Gerencimento de Sócios]()
 
 #### Contato
