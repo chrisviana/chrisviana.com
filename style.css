@@ -1,0 +1,37 @@
+body {
+  background-color: #252525;
+  color: #e2e2e2;
+  font-family: "Poppins", sans-serif;
+  max-width: 70rem;
+  width: 100%;
+}
+
+#readme-content {
+  margin: 4rem;
+}
+@media (max-width: 400px) {
+  #readme-content {
+      margin: 2rem;
+    }
+}
+
+
+
+a {
+  color: #038a39;
+}
+
+a:visited {
+  color: #038a39;
+}
+
+
+pre {
+  background-color: #7d7d7d;
+  width: 20rem;
+  padding: 1rem;
+}
+
+h5 {
+  font-weight: 100;
+}
