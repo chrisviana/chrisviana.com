@@ -9,8 +9,7 @@ export const Header = () => {
 
 return (
     <nav className='p-4'>
-      <div className="container mx-auto flex items-center justify-between flex-wrap">
-        <div className="text-gray-800 text-2xl font-bold">Christian Viana</div>
+      <div className="container mx-auto flex items-center justify-end flex-wrap">
         <div className="block lg:hidden">
           <button
             onClick={toggleMenu}
